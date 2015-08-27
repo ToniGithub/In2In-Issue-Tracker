@@ -208,9 +208,9 @@
 	lang_LastestNews:'Latest News',
 	lang_ReadMore:'Read more',
 	lang_ShowLess:'Show less',
-	lang_OopsNoNewsAvailble: '<strong>Oops!</strong> No news are available.',
+	lang_OopsNoNewsAvailble: 'No news are available.',
 	lang_By:'&nbsp;by&nbsp;',
-	lang_On:'&nbsp;on&nbsp;',
+	lang_On:'on',
 
 	//New issue
 	lang_SuccesIssueCreated: '<strong>Success!</strong> Your issue successfully created !',

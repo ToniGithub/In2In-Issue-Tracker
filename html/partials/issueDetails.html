@@ -131,8 +131,8 @@
                             <div data-ng-repeat="history in issue.journals" class="issue-history">
                                 <p class="pointer minify" data-ng-click="toggleMinify(history)">
                                     <small>
-                                        <strong>{{ 'lang_UpdatedBy' | translate }}</strong>&nbsp;
-                                        <a href="" data-ng-click="false;">{{history.user.name}}</a>{{ 'lang_On' | translate }}{{history.created_on | date:'MMM d, y'}}
+                                        <strong>{{ 'lang_UpdatedBy' | translate }}</strong>
+                                        <a href="" data-ng-click="false">{{history.user.name}}</a> {{ 'lang_On' | translate }} {{history.created_on | date:'MMM d, y'}}
                                     </small>
                                     <i class="pull-right" data-ng-class="history.minified && 'glyphicon glyphicon-resize-full' || 'glyphicon glyphicon-resize-small'"></i>
                                 </p>
