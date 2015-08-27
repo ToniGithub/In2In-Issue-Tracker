@@ -260,6 +260,137 @@
 	lang_EditComment: 'Edit comment',
 
 	}
+},{
+	key: 'ca',
+	locales: {
+
+	//Common
+    lang_Update: 'Actualitza',
+	lang_Name:'Nom',
+	lang_YourProjects:'Projectes',
+	lang_YourLastestIssues:'Tasques',
+	lang_SearchBySubject: 'Cerca per títol',
+	lang_Author: 'Autor',
+        lang_Project: 'Projecte',
+	lang_Subject: 'Títol',
+	   
+	lang_Actions: 'Accions',
+	lang_Close:'Tanca',
+	lang_Notice: 'Notícia',
+	lang_ShowMore:'Mostra més...',
+	lang_StoreSettings: 'Guarda',
+	lang_Error:'Error',
+	
+		   
+	//Main
+	lang_IssueList:'Tasques',
+	lang_News:'Notícies',
+	lang_Projects: 'Projectes',
+	lang_TimeLogs:'Temps',
+	lang_ProjectsFiltering: 'Filtre de Projectes',
+	lang_Options: 'Opcions',
+	lang_ServerWarning: 'Atenció. El servidor no està accessible.',
+	lang_Loading: 'Carregant',
+	lang_ExtensionOptions: 'Opcions',
+	lang_AuthorLink: 'In2In Solucions Tecnològiques S.L.',
+
+	//Home
+	lang_IssueListOptions: 'Opcions de la llista',
+	lang_IssueListHint:'Selecciona els camps que vols veure',
+	lang_ProjectTitle: 'Títol del projecte',
+	lang_AuthorName: 'Nom d"autor',
+	lang_Priority: 'Prioritat',
+	lang_Tracker: 'Tipus',
+	lang_Status: 'Estat', 
+	lang_StoreOptions:'Opcions emmagatzematge',
+
+	//Time Logs
+	lang_YourTimelogs:'Registres de temps',
+	lang_NoWorkingIssues: 'No estàs treballant a cap tasca.',
+	lang_ClearAllTimeLogs:'Neteja els registres de temps',
+	lang_YouAreWorkingOnThisIssue:'Estàs treballant en aquesta tasca',
+	lang_FinishWorking: 'Treball finalitzat',
+	lang_NoCommentAvailable: 'Comentaris no disponibles',
+
+	//Project filter
+	lang_ProjectFilteringSettings: 'Configuració filtre de Projectes',
+	lang_ShowIssuesFor:'Mostra les tasques per:',
+	lang_AllProjects: 'Tots els projectes',
+	lang_SelectedProjects: 'Projectes seleccionats',
+
+	//Options
+	lang_Connection:'Connexió',
+	lang_Notifications: 'Notificació',
+	lang_Misc:'Misc',
+	lang_ApiKey: 'Clau accés a la API',
+	lang_ApiKeyNotice:'La Clau accés a la Api de Redmine es pot trobar al perfil de Redmine. Normalment a la part dreta de la pàgina.',
+	lang_YourApiAccessKey:'La teva clau accés a la API',
+	lang_UseHTTPAuth: 'Utilitza Autenticació HTTP',
+	lang_HTTPUsername: 'Usuari HTTP',
+	lang_HTTPPassword: 'Password HTTP',
+	lang_ShowNotifications: 'Mostra les notificacions',
+	lang_Never: 'Mai',
+	lang_OnNewIssues: 'A les Tasques noves',
+	lang_OnNewAndUpdatedIssues: 'A les tasques noves i actualitzades',
+	lang_HideHelpMessagesAndHints: 'Amaga els missatges ajuda i recomanacions',
+	lang_ClearAllStoredInformation: 'Neteja tota la informació emmagatzemada',
+
+	//News
+	lang_LastestNews:'Ultimes noticies',
+	lang_ReadMore:'Llegeix més',
+	lang_ShowLess:'Mostra menys',
+	lang_OopsNoNewsAvailble: 'Noticies no disponibles.',
+	lang_By:'per',
+	lang_On:'on',
+
+	//New issue
+	lang_SuccesIssueCreated: 'Fet. Tasca creada.',
+	lang_NewIssue:'Nova tasca',
+	lang_SelectProject: 'Selecciona el projecte',
+	lang_AssignTo:'Assigna a',
+	lang_SelectAssignee:'Selecciona assignat',
+	lang_SelectTracker: 'Selecciona tipus',
+	lang_EstimatedHours: 'Temps estimat',
+	lang_Description: 'Descripció',
+	lang_CreateNewIssue: 'Crea una nova tasca',
+	lang_Cancel: 'Cancel·la',
+	lang_NewIssueHint:'Els camps Tipus i Propietari apareixeran després de seleccionar el projecte.',
+
+	//Issue list
+	lang_YourLatestIssues: 'Tasques',
+	lang_NewIssue:'Nova tasca',
+	  lang_MarkAllAsRead: 'Marca totes llegides',
+	lang_IssueListHint:'Amb conf sign (a esquerra aquesta icona) pots gestionar el camps visibles a la taula',
+	lang_OopsNoIssuesAvailable:'No hi han tasques disponibles.',
+	lang_YouAreOnlyWatching:'Només pots veure aquesta tasca',
+	 lang_OpenIssueInRedmine: 'Obrir la tasca a Redmine',
+	lang_Previus: 'Anterior',
+	lang_Next:'Següent',
+
+	//Issue Details
+	lang_AddedBy:'Afegit per',
+	lang_Assignee:'Assignat',
+	lang_Type:'Tipus',
+	lang_Done: 'Fet',
+	lang_Complete20Perc:'20% Complet',
+	lang_FinishWorkingOnIssue:'Treball finalitzat per aquesta tasca',
+	lang_OpenInRedmine: 'Obre a Redmine',
+	lang_ClearTimeLogs: 'Neteja registre de temps',
+	lang_TotalTimeSpent:'Temps total invertit',
+	lang_NoTimeLogsAvailable:'Registre de temps no disponible.',
+	lang_AddComment:'Afegir Commentari',
+	lang_ScrollToTop:'Mou a dalt...',
+	lang_Reply:'Respondre',
+	lang_UpdatedBy:'Actualitzat per',
+	lang_ScrollToBottom:'Mou a baix...',
+	lang_LoadingHistory:'Carregant històric...',
+	lang_History: 'Històric',
+	lang_Attachments:'Adjunts',
+	lang_StartWorkingOnIssue:'Treball iniciat per aquesta tasca',
+	lang_FinishEditing:'Finalitza edició',
+	lang_EditComment: 'Edita el commentari',
+
+	}
 }
 
 ];
