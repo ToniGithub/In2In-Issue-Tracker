@@ -23,7 +23,7 @@
                     <div class="col-md-6">
                         <p>
                             <small>
-                                <strong> {{ 'lang_Status' | translate }}</strong>:&nbsp;
+                                <strong>{{ 'lang_Status' | translate }}</strong>:&nbsp;
                                 <span data-editable-list
                                       data-editable-value="issue.status.id"
                                       data-editable-select="availStatuses"
@@ -136,19 +136,19 @@
                                     </small>
                                     <i class="pull-right" data-ng-class="history.minified && 'glyphicon glyphicon-resize-full' || 'glyphicon glyphicon-resize-small'"></i>
                                 </p>
-                                <div data-ng-hide="history.minified">
+                                <div data-ng-hide="history.minified"> 
                                     <ul data-ng-show="history.details.length > 0">
                                         <li data-ng-repeat="item in history.details">
                                             <div data-issue-history="item" data-issue="issue" data-project="project"></div>
                                         </li>
                                     </ul>
                                     <div data-ng-show="history.notes">
-                                        <blockquote>
-                                            <p data-ng-bind-html="history.notes|nl2br|comment"></p>
+                                        <!--<blockquote>-->
+                                            <p data-ng-bind-html="history.notes | nl2br"></p>
                                             <small class="pointer" data-ng-click="replyComment()">
                                                 <i class="glyphicon glyphicon-comment"></i>&nbsp;{{ 'lang_Reply' | translate }}
                                             </small>
-                                        </blockquote>
+                                        <!--</blockquote>-->
                                     </div>
                                 </div>
                             </div>

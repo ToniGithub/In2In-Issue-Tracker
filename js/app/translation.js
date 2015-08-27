@@ -160,8 +160,8 @@
 	lang_Options: 'Options',
 	lang_ServerWarning: '<strong>Warning!</strong> Server is not accessible. <a href="#/options">May be update options ?</a>',
 	lang_Loading: 'Loading',
-	lang_ExtensionOptions: 'Extention Options',
-	lang_AuthorLink: 'All enchantment you could send to my email: <a href="mailto:konstantin.zolotarev.work@gmail.com" target="_blank">Konstantin Zolotarev</a>',
+	lang_ExtensionOptions: 'Extension Options',
+	lang_AuthorLink: 'In2In Solucions Tecnològiques S.L.',
 
 	//Home
 	lang_IssueListOptions: 'Issue list options',
