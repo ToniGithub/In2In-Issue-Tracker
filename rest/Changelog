@@ -1,0 +1,66 @@
+Changelog
+---------------------------------
+1.6.5 ()
+    - Added config synchronization between devices
+
+1.6.0 (15-Feb-2013)
+    - Updated Twitter Bootstrap to version 2.3
+    - Added ChiliProject support
+    - Updated UI
+    - Latest news
+    - Code optimization and stability improvements
+
+1.0 (28-Nov-2012)
+    - Create new issue from selected text (Context menu)
+    - Hints + disable hints in options
+    - Options code optimization
+    - Minor UI optimization
+    
+0.9.9 (23-Nov-2012)
+    - Attach file to issue
+    - Attachment history parsing
+    - Stability improvements
+    - V8 code optimazation
+
+0.9.8 (20-Nov-2012)
+    - Added "Issue list options"
+
+0.9.7 (19-Nov-2012)
+    - Added assignee field into Create issue
+    - Core fixes
+
+0.9.6 (19-Nov-2012)
+    - New issue creation feature
+    - Small UI improvements
+    - Minor core fixes
+
+0.9.5 (15-Nov-2012)
+    - Added notifications support & options
+    - Added projects filtering options
+    - Major stability improvements
+
+0.9.2 (13-Nov-2012)
+    - Added "estimation time" field
+    - Major code improvements
+    - New "Edit Estimate hours" feature
+    - Change issue subject history action fix
+    - User name resolving into "Change assignee" history action
+
+0.9.1 (11-Nov-2012)
+    - New "Change issue done ratio" feature
+    - Minor core fixes
+    - Small UI improvements
+
+0.9 (11-Nov-2012)
+    - New "Change issue status" feature
+    - Minor core fixes
+
+0.8 (11-Nov-2012)
+    - New "Change issue type" feature
+    - Small UI improvements
+    - Minor core fixes
+
+0.7 (10-Nov-2012)
+    - New "Add comment" to issue feature
+    - Minor stability fixes
+    - Added issue type into into details page
